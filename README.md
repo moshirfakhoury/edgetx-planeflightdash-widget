@@ -31,3 +31,8 @@ Designed with both functionality and aesthetics in mind, FlightDash provides pil
 - Clean aviation-inspired UI layout
 
 **Installation**
+- Download the ZIP file
+- Extract the contents of the ZIP file
+- Locate the last folder named fltDashP2 (it contains main.lua)
+- Copy this fltDashP2 folder only
+- Paste the folder into your SDCard/WIDGETS directory
