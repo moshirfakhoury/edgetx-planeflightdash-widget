@@ -37,6 +37,12 @@ Designed with both functionality and aesthetics in mind, FlightDash provides pil
 - Copy this fltDashP2 folder only
 - Paste the folder into your SDCard/WIDGETS directory
 
+**Images**
+- Add all your model images to the transmitters IMAGES folder.
+- Images must be in .png format
+- Images must be named the same as your model name and in this format Yak54, Yak54_1, Yak54_2, Yak54_3
+- The wiget will automatically cycle through all your images in a slideshow
+
 <img width="479" height="272" alt="image" src="https://github.com/user-attachments/assets/1ee67375-83f1-437b-8423-46072242b61f" />
 
 <img width="478" height="272" alt="image" src="https://github.com/user-attachments/assets/77582a23-0b4f-428c-b1e6-fd413e2a4377" />
